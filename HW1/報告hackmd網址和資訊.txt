@@ -1,0 +1,3 @@
+https://hackmd.io/NhORAL3sTv-AKSZLKQe8cQ?view
+第一題主程式為entropy.py，測試四個raw檔
+第二題主程式為HuffmanCoding.py，測試兩個png，兩個bmp

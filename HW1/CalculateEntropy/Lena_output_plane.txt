@@ -1,0 +1,27 @@
+==== 1st Order Entropy ====
+RGB channels:
+H(R) = 7.25 bits/pixel
+H(G) = 7.59 bits/pixel
+H(B) = 6.97 bits/pixel
+YUV channels:
+H(Y) = 7.45 bits/pixel
+H(U) = 5.65 bits/pixel
+H(V) = 5.61 bits/pixel
+
+==== Joint Entropy ====
+Joint Entropy of (R,G,B) = 16.84 bits/pixel
+Joint Entropy of (Y,U,V) = 15.49 bits/pixel
+
+==== Conditional Entropy ====
+Conditional Entropy of R given left pixel = 4.65 bits/pixel
+Conditional Entropy of R given upper pixel = 4.30 bits/pixel
+Conditional Entropy of G given left pixel = 5.16 bits/pixel
+Conditional Entropy of G given upper pixel = 4.86 bits/pixel
+Conditional Entropy of B given left pixel = 5.28 bits/pixel
+Conditional Entropy of B given upper pixel = 5.02 bits/pixel
+Conditional Entropy of Y given left pixel = 4.88 bits/pixel
+Conditional Entropy of Y given upper pixel = 4.53 bits/pixel
+Conditional Entropy of U given left pixel = 3.99 bits/pixel
+Conditional Entropy of U given upper pixel = 3.77 bits/pixel
+Conditional Entropy of V given left pixel = 3.88 bits/pixel
+Conditional Entropy of V given upper pixel = 3.73 bits/pixel
