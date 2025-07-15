@@ -1,1 +1,6 @@
 https://hackmd.io/6x1L88arTGqm1JMdww348A?view
+
+
+For hw2，JPEG為主程式，含script.py讀取JPEG.py，此腳本可以更改參數測試灰階或彩色、QF值
+
+每個資料夾裡都有psnr.txt文字檔，內容為各種QF的PSNR結果
