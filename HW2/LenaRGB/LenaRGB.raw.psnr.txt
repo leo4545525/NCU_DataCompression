@@ -1,0 +1,30 @@
+QF=90
+[Q=90] Channel PSNR: 41.75 dB
+[Q=90] Channel PSNR: 40.61 dB
+[Q=90] Channel PSNR: 40.75 dB
+
+QF=80
+[Q=80] Channel PSNR: 38.62 dB
+[Q=80] Channel PSNR: 37.31 dB
+[Q=80] Channel PSNR: 37.77 dB
+
+QF=50
+[Q=50] Channel PSNR: 35.00 dB
+[Q=50] Channel PSNR: 33.56 dB
+[Q=50] Channel PSNR: 34.39 dB
+
+QF=20
+[Q=20] Channel PSNR: 31.83 dB
+[Q=20] Channel PSNR: 30.34 dB
+[Q=20] Channel PSNR: 31.51 dB
+
+QF=10
+[Q=10] Channel PSNR: 29.11 dB
+[Q=10] Channel PSNR: 27.93 dB
+[Q=10] Channel PSNR: 29.10 dB
+
+QF=5
+[Q=5] Channel PSNR: 26.18 dB
+[Q=5] Channel PSNR: 25.20 dB
+[Q=5] Channel PSNR: 26.41 dB
+
